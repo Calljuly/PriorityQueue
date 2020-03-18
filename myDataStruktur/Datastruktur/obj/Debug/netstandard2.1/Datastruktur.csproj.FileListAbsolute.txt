@@ -1,0 +1,8 @@
+C:\Users\92julcal\source\repos\myDataStruktur\Datastruktur\bin\Debug\netstandard2.1\Datastruktur.deps.json
+C:\Users\92julcal\source\repos\myDataStruktur\Datastruktur\bin\Debug\netstandard2.1\Datastruktur.dll
+C:\Users\92julcal\source\repos\myDataStruktur\Datastruktur\bin\Debug\netstandard2.1\Datastruktur.pdb
+C:\Users\92julcal\source\repos\myDataStruktur\Datastruktur\obj\Debug\netstandard2.1\Datastruktur.csprojAssemblyReference.cache
+C:\Users\92julcal\source\repos\myDataStruktur\Datastruktur\obj\Debug\netstandard2.1\Datastruktur.AssemblyInfoInputs.cache
+C:\Users\92julcal\source\repos\myDataStruktur\Datastruktur\obj\Debug\netstandard2.1\Datastruktur.AssemblyInfo.cs
+C:\Users\92julcal\source\repos\myDataStruktur\Datastruktur\obj\Debug\netstandard2.1\Datastruktur.dll
+C:\Users\92julcal\source\repos\myDataStruktur\Datastruktur\obj\Debug\netstandard2.1\Datastruktur.pdb
